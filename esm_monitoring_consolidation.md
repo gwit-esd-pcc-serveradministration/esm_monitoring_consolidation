@@ -64,4 +64,4 @@ style: |
 - [OS Teams Consolidation](https://github.com/gwit-esd-pcc-serveradministration/pcc_serveradmin_consolidation_roadshow.git)
 ---
 
-![bg center: 10% 10%](./images/palantir.png)
+![bg center: 10%an0%](./images/palantir.png)
