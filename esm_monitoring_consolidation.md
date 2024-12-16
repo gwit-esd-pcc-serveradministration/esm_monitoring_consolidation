@@ -46,22 +46,32 @@ style: |
 ---
 ## What's Changing ? (Maintenance Mode)
 - self service
-- mutes alerts for a specified time
+- disables monitoring for a time you SPECIFY
+  - App Upgrades
+  - Known Issues
 ![width:375 height:330](./images/maintenance_mode.png)
 
 
 ---
 ## What's Changing ? (Maint. Mode cont'd)
 
-- [Maintenance Mode for Linux](https://scom.it.gwu.edu/MM/Home/Unix)
+- Portal: [Maintenance Mode for Linux](https://scom.it.gwu.edu/MM/Home/Unix)
 - adm credentials required to access scheduler console
-- access restricted to GW IP
+![](./images/scom_login_screen_2.png)
 
+---
+## What's Changing ? (Maint. Mode cont'd)
+- VPN Access Required
+- ADM Credentials Required
+  - Work Order to Identity Team
+  - [Request Form](https://gwu-myit.onbmc.com/dwp/app/#/srm/profile/SRGITZK3JQ3G5ASKQIXYSKQIXYDU88/srm)
+    - *May need to verify ID*
 
 ---
 ## Links
 - [This Presentation](https://github.com/gwit-esd-pcc-serveradministration/esm_monitoring_consolidation.git)
 - [OS Teams Consolidation](https://github.com/gwit-esd-pcc-serveradministration/pcc_serveradmin_consolidation_roadshow.git)
+- [ADM account request form](https://gwu-myit.onbmc.com/dwp/app/#/srm/profile/SRGITZK3JQ3G5ASKQIXYSKQIXYDU88/srm)
 ---
 
-![bg center: 10%an0%](./images/palantir.png)
+![bg center:10% 10%](./images/palantir.png)
